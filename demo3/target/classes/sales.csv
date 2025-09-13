@@ -1,0 +1,109 @@
+,,,,,,,,,,,,,,,,,,
+saleID,date,customerID,customerName,customerContact,productID,productName,quantity,unitPrice,totalPrice,subtotal,tax,totalAmount,paymentMethod,salesRep,deptID,deptName,storeNumber
+S10001,2025-09-01,C0001,Aarav Mehta,aarav.mehta@example.com,P101,Wireless Mouse,1,15.99,15.99,81.97,6.56,88.53,Credit Card,Emily Johnson,D007,Electronics,Store1001
+S10001,2025-09-01,C0001,Aarav Mehta,aarav.mehta@example.com,P202,Keyboard,1,49.99,49.99,81.97,6.56,88.53,Credit Card,Emily Johnson,D007,Electronics,Store1001
+S10002,2025-09-01,C0002,Neha Sharma,neha.sharma@example.com,P303,USB-C Cable,2,7.99,15.98,45.96,3.68,49.64,UPI,Rahul Iyer,D007,Electronics,Store1002
+S10002,2025-09-01,C0002,Neha Sharma,neha.sharma@example.com,P404,HDMI Cable,1,12.99,12.99,45.96,3.68,49.64,UPI,Rahul Iyer,D007,Electronics,Store1002
+S10003,2025-09-01,C0003,Imran Khan,imran.khan@example.com,P505,Gaming Headset,1,59.99,59.99,59.99,4.80,64.79,Cash,Sophia Patel,D007,Electronics,Store1003
+S10004,2025-09-02,C0004,Ananya Rao,ananya.rao@example.com,P606,Webcam 1080p,1,39.50,39.50,39.50,3.16,42.66,Debit Card,Emily Johnson,D007,Electronics,Store1004
+S10005,2025-09-02,C0005,Varun Desai,varun.desai@example.com,P707,Laptop Stand,1,24.00,24.00,36.00,2.88,38.88,Credit Card,Noah Singh,D010,Accessories,Store1001
+S10005,2025-09-02,C0005,Varun Desai,varun.desai@example.com,P808,Desk Mat,1,12.00,12.00,36.00,2.88,38.88,Credit Card,Noah Singh,D010,Accessories,Store1001
+S10006,2025-09-02,C0006,Priya Nair,priya.nair@example.com,P909,Portable SSD 1TB,1,89.90,89.90,89.90,7.19,97.09,UPI,Rahul Iyer,D007,Electronics,Store1002
+S10007,2025-09-02,C0007,Aditya Verma,aditya.verma@example.com,P111,Wireless Keyboard,1,45.00,45.00,91.00,7.28,98.28,Credit Card,Emily Johnson,D007,Electronics,Store1003
+S10007,2025-09-02,C0007,Aditya Verma,aditya.verma@example.com,P112,Ergo Mouse,1,46.00,46.00,91.00,7.28,98.28,Credit Card,Emily Johnson,D007,Electronics,Store1003
+S10008,2025-09-03,C0008,Sara Ali,sara.ali@example.com,P113,Monitor 24in,1,129.99,129.99,129.99,10.40,140.39,Debit Card,Sophia Patel,D007,Electronics,Store1004
+S10009,2025-09-03,C0009,Dev Patel,dev.patel@example.com,P114,Monitor 27in,1,189.99,189.99,189.99,15.20,205.19,Credit Card,Noah Singh,D007,Electronics,Store1001
+S10010,2025-09-03,C0010,Ankit Yadav,ankit.yadav@example.com,P115,Desk Lamp LED,2,18.50,37.00,37.00,2.96,39.96,Cash,Rahul Iyer,D010,Accessories,Store1002
+S10011,2025-09-03,C0011,Nisha Gupta,nisha.gupta@example.com,P116,USB Hub 4-Port,1,14.99,14.99,29.98,2.40,32.38,UPI,Emily Johnson,D007,Electronics,Store1003
+S10011,2025-09-03,C0011,Nisha Gupta,nisha.gupta@example.com,P117,Mouse Pad,1,14.99,14.99,29.98,2.40,32.38,UPI,Emily Johnson,D010,Accessories,Store1003
+S10012,2025-09-03,C0012,Sameer Kulkarni,sameer.kulkarni@example.com,P118,External HDD 2TB,1,69.99,69.99,69.99,5.60,75.59,Credit Card,Sophia Patel,D007,Electronics,Store1004
+S10013,2025-09-04,C0013,Leena Fernandes,leena.fernandes@example.com,P119,Surge Protector,1,21.99,21.99,21.99,1.76,23.75,Debit Card,Noah Singh,D010,Accessories,Store1001
+S10014,2025-09-04,C0014,Harsh Vora,harsh.vora@example.com,P120,Printer Ink Black,2,13.49,26.98,41.97,3.36,45.33,UPI,Rahul Iyer,D012,Office,Store1002
+S10014,2025-09-04,C0014,Harsh Vora,harsh.vora@example.com,P121,Printer Ink Color,1,14.99,14.99,41.97,3.36,45.33,UPI,Rahul Iyer,D012,Office,Store1002
+S10015,2025-09-04,C0015,Kabir Shah,kabir.shah@example.com,P122,All-in-One Printer,1,139.00,139.00,139.00,11.12,150.12,Credit Card,Emily Johnson,D012,Office,Store1003
+S10016,2025-09-04,C0016,Aisha Siddiqui,aisha.siddiqui@example.com,P123,Noise-cancel Headphones,1,199.00,199.00,199.00,15.92,214.92,Debit Card,Sophia Patel,D007,Electronics,Store1004
+S10017,2025-09-05,C0017,Rohan Das,rohan.das@example.com,P124,Graphic Tablet S,1,79.90,79.90,79.90,6.39,86.29,UPI,Noah Singh,D007,Electronics,Store1001
+S10018,2025-09-05,C0018,Meera Joshi,meera.joshi@example.com,P125,Portable Speaker,1,34.99,34.99,34.99,2.80,37.79,Credit Card,Rahul Iyer,D007,Electronics,Store1002
+S10019,2025-09-05,C0019,Arjun Soni,arjun.soni@example.com,P126,Smartwatch Band,2,9.99,19.98,19.98,1.60,21.58,Cash,Emily Johnson,D010,Accessories,Store1003
+S10020,2025-09-05,C0020,Ishita Jain,ishita.jain@example.com,P127,Desk Organizer,1,16.50,16.50,16.50,1.32,17.82,UPI,Sophia Patel,D010,Accessories,Store1004
+S10021,2025-09-05,C0021,Akash Goyal,akash.goyal@example.com,P128,Phone Stand,3,6.00,18.00,18.00,1.44,19.44,Debit Card,Noah Singh,D010,Accessories,Store1001
+S10022,2025-09-06,C0022,Zaara Khan,zaara.khan@example.com,P129,Webcam Cover,2,3.50,7.00,7.00,0.56,7.56,Credit Card,Rahul Iyer,D010,Accessories,Store1002
+S10023,2025-09-06,C0023,Devika Iyer,devika.iyer@example.com,P130,Laptop Sleeve 15in,1,19.99,19.99,19.99,1.60,21.59,UPI,Emily Johnson,D010,Accessories,Store1003
+S10024,2025-09-06,C0024,Faizan Sheikh,faizan.sheikh@example.com,P131,MicroSD 128GB,1,22.99,22.99,22.99,1.84,24.83,Cash,Sophia Patel,D007,Electronics,Store1004
+S10025,2025-09-06,C0025,Reema Kaul,reema.kaul@example.com,P132,Router AX1800,1,89.00,89.00,89.00,7.12,96.12,Credit Card,Noah Singh,D007,Electronics,Store1001
+S10026,2025-09-06,C0026,Manav Kapoor,manav.kapoor@example.com,P133,Range Extender,1,39.99,39.99,39.99,3.20,43.19,Debit Card,Rahul Iyer,D007,Electronics,Store1002
+S10027,2025-09-07,C0027,Harini Menon,harini.menon@example.com,P134,USB-C Dock,1,74.50,74.50,74.50,5.96,80.46,UPI,Emily Johnson,D007,Electronics,Store1003
+S10028,2025-09-07,C0028,Yash Agarwal,yash.agarwal@example.com,P135,Wireless Charger,2,12.50,25.00,25.00,2.00,27.00,Credit Card,Sophia Patel,D007,Electronics,Store1004
+S10029,2025-09-07,C0029,Anvi Malhotra,anvi.malhotra@example.com,P136,Stylus Pen,1,14.50,14.50,14.50,1.16,15.66,Cash,Noah Singh,D010,Accessories,Store1001
+S10030,2025-09-07,C0030,Pranav Kulkarni,pranav.kulkarni@example.com,P137,Desk Chair Mat,1,29.00,29.00,29.00,2.32,31.32,Debit Card,Rahul Iyer,D010,Accessories,Store1002
+S10031,2025-09-07,C0031,Nikita Bansal,nikita.bansal@example.com,P138,Label Printer,1,69.00,69.00,69.00,5.52,74.52,UPI,Emily Johnson,D012,Office,Store1003
+S10032,2025-09-08,C0032,Om Prakash,om.prakash@example.com,P139,Shredder Crosscut,1,59.00,59.00,59.00,4.72,63.72,Credit Card,Sophia Patel,D012,Office,Store1004
+S10033,2025-09-08,C0033,Kiran Reddy,kiran.reddy@example.com,P140,Notebook A5,5,2.50,12.50,22.50,1.80,24.30,Cash,Noah Singh,D012,Office,Store1001
+S10033,2025-09-08,C0033,Kiran Reddy,kiran.reddy@example.com,P141,Gel Pen Blue,5,2.00,10.00,22.50,1.80,24.30,Cash,Noah Singh,D012,Office,Store1001
+S10034,2025-09-08,C0034,Ira Dutta,ira.dutta@example.com,P142,Whiteboard Markers,2,3.75,7.50,7.50,0.60,8.10,UPI,Rahul Iyer,D012,Office,Store1002
+S10035,2025-09-08,C0035,Ayush Jain,ayush.jain@example.com,P143,Office Chair,1,129.00,129.00,129.00,10.32,139.32,Credit Card,Emily Johnson,D012,Office,Store1003
+S10036,2025-09-08,C0036,Salman Noor,salman.noor@example.com,P144,Standing Desk,1,249.00,249.00,249.00,19.92,268.92,Debit Card,Sophia Patel,D012,Office,Store1004
+S10037,2025-09-09,C0037,Navya Kapoor,navya.kapoor@example.com,P145,Cable Ties Pack,3,1.50,4.50,4.50,0.36,4.86,Credit Card,Noah Singh,D010,Accessories,Store1001
+S10038,2025-09-09,C0038,Shreya Rao,shreya.rao@example.com,P146,AA Batteries 10pk,1,6.99,6.99,6.99,0.56,7.55,Cash,Rahul Iyer,D010,Accessories,Store1002
+S10039,2025-09-09,C0039,Tejas Patil,tejas.patil@example.com,P147,Portable Fan USB,1,14.99,14.99,14.99,1.20,16.19,UPI,Emily Johnson,D010,Accessories,Store1003
+S10040,2025-09-09,C0040,Noor Fatima,noor.fatima@example.com,P148,Desk Clock,1,17.99,17.99,17.99,1.44,19.43,Debit Card,Sophia Patel,D010,Accessories,Store1004
+S10041,2025-09-09,C0041,Parth Shah,parth.shah@example.com,P149,Laminate Sheets,2,5.50,11.00,11.00,0.88,11.88,Credit Card,Noah Singh,D012,Office,Store1001
+S10042,2025-09-10,C0042,Amrita Sen,amrita.sen@example.com,P150,Notebook A4,3,3.00,9.00,9.00,0.72,9.72,UPI,Rahul Iyer,D012,Office,Store1002
+S10043,2025-09-10,C0043,Krish Rao,krish.rao@example.com,P151,Paper Ream A4,1,6.49,6.49,6.49,0.52,7.01,Cash,Emily Johnson,D012,Office,Store1003
+S10044,2025-09-10,C0044,Devanshi Jain,devanshi.jain@example.com,P152,Sticky Notes Pack,4,1.50,6.00,6.00,0.48,6.48,Debit Card,Sophia Patel,D012,Office,Store1004
+S10045,2025-09-10,C0045,Shaan Grover,shaan.grover@example.com,P153,Highlighter Set,1,5.99,5.99,5.99,0.48,6.47,Credit Card,Noah Singh,D012,Office,Store1001
+S10046,2025-09-10,C0046,Myra Kapoor,myra.kapoor@example.com,P154,Clipboard A4,1,4.49,4.49,4.49,0.36,4.85,UPI,Rahul Iyer,D012,Office,Store1002
+S10047,2025-09-11,C0047,Anish Nair,anish.nair@example.com,P155,Mechanical Pencil,2,2.25,4.50,4.50,0.36,4.86,Cash,Emily Johnson,D012,Office,Store1003
+S10048,2025-09-11,C0048,Diya Roy,diya.roy@example.com,P156,Earbuds Wireless,1,49.00,49.00,49.00,3.92,52.92,Debit Card,Sophia Patel,D007,Electronics,Store1004
+S10049,2025-09-11,C0049,Ankit Sahu,ankit.sahu@example.com,P157,Power Bank 20k,1,39.00,39.00,39.00,3.12,42.12,Credit Card,Noah Singh,D007,Electronics,Store1001
+S10050,2025-09-11,C0050,Vaishnavi Iyer,vaishnavi.iyer@example.com,P158,Phone Case,2,8.00,16.00,16.00,1.28,17.28,UPI,Rahul Iyer,D010,Accessories,Store1002
+S10051,2025-09-11,C0051,Shlok Deshmukh,shlok.deshmukh@example.com,P159,Screen Protector,2,5.50,11.00,11.00,0.88,11.88,Cash,Emily Johnson,D010,Accessories,Store1003
+S10052,2025-09-12,C0052,Alina Mathew,alina.mathew@example.com,P160,Tripod Mini,1,13.99,13.99,13.99,1.12,15.11,Debit Card,Sophia Patel,D010,Accessories,Store1004
+S10053,2025-09-12,C0053,Samar Tiwari,samar.tiwari@example.com,P161,LED Strip 5m,1,18.99,18.99,18.99,1.52,20.51,Credit Card,Noah Singh,D010,Accessories,Store1001
+S10054,2025-09-12,C0054,Ritvika Shah,ritvika.shah@example.com,P162,Desk Plant,1,9.99,9.99,9.99,0.80,10.79,UPI,Rahul Iyer,D010,Accessories,Store1002
+S10055,2025-09-12,C0055,Raghav Arora,raghav.arora@example.com,P163,Cable Organizer,3,2.99,8.97,8.97,0.72,9.69,Cash,Emily Johnson,D010,Accessories,Store1003
+S10056,2025-09-12,C0056,Muskan Jain,muskan.jain@example.com,P164,USB LED Lamp,2,3.99,7.98,7.98,0.64,8.62,Debit Card,Sophia Patel,D010,Accessories,Store1004
+S10057,2025-09-13,C0057,Rehan Qureshi,rehan.qureshi@example.com,P165,Microfiber Cloth,5,1.20,6.00,6.00,0.48,6.48,Credit Card,Noah Singh,D010,Accessories,Store1001
+S10058,2025-09-13,C0058,Anushka Sen,anushka.sen@example.com,P166,Notebook B5,2,2.75,5.50,5.50,0.44,5.94,UPI,Rahul Iyer,D012,Office,Store1002
+S10059,2025-09-13,C0059,Divyam Saxena,divyam.saxena@example.com,P167,Photo Paper A4,1,7.50,7.50,7.50,0.60,8.10,Cash,Emily Johnson,D012,Office,Store1003
+S10060,2025-09-13,C0060,Khushi Gupta,khushi.gupta@example.com,P168,Inkjet Paper 100,1,8.99,8.99,8.99,0.72,9.71,Debit Card,Sophia Patel,D012,Office,Store1004
+S10061,2025-09-13,C0061,Atharv Menon,atharv.menon@example.com,P169,Push Pins 100,2,1.40,2.80,2.80,0.22,3.02,Credit Card,Noah Singh,D012,Office,Store1001
+S10062,2025-09-14,C0062,Sia Sethi,sia.sethi@example.com,P170,Stapler Metal,1,6.49,6.49,6.49,0.52,7.01,UPI,Rahul Iyer,D012,Office,Store1002
+S10063,2025-09-14,C0063,Aniket Bose,aniket.bose@example.com,P171,Staples 1000,3,1.00,3.00,3.00,0.24,3.24,Cash,Emily Johnson,D012,Office,Store1003
+S10064,2025-09-14,C0064,Harshita Rao,harshita.rao@example.com,P172,Correction Tape,2,1.75,3.50,3.50,0.28,3.78,Debit Card,Sophia Patel,D012,Office,Store1004
+S10065,2025-09-14,C0065,Arnav Kapoor,arnav.kapoor@example.com,P173,Document Folder,2,2.25,4.50,4.50,0.36,4.86,Credit Card,Noah Singh,D012,Office,Store1001
+S10066,2025-09-14,C0066,Ilan Khan,ilan.khan@example.com,P174,Pen Drive 64GB,1,9.99,9.99,9.99,0.80,10.79,UPI,Rahul Iyer,D007,Electronics,Store1002
+S10067,2025-09-15,C0067,Mahek Jain,mahek.jain@example.com,P175,Bluetooth Speaker Mini,1,24.99,24.99,24.99,2.00,26.99,Cash,Emily Johnson,D007,Electronics,Store1003
+S10068,2025-09-15,C0068,Ritwik Sinha,ritwik.sinha@example.com,P176,Phone Cable 2m,2,6.49,12.98,12.98,1.04,14.02,Debit Card,Sophia Patel,D007,Electronics,Store1004
+S10069,2025-09-15,C0069,Trisha Roy,trisha.roy@example.com,P177,Wireless Earbuds,1,39.99,39.99,39.99,3.20,43.19,Credit Card,Noah Singh,D007,Electronics,Store1001
+S10070,2025-09-15,C0070,Anand Pillai,anand.pillai@example.com,P178,Action Camera,1,129.00,129.00,129.00,10.32,139.32,UPI,Rahul Iyer,D007,Electronics,Store1002
+S10071,2025-09-15,C0071,Shaila Das,shaila.das@example.com,P179,Tripod 60in,1,34.99,34.99,34.99,2.80,37.79,Cash,Emily Johnson,D010,Accessories,Store1003
+S10072,2025-09-16,C0072,Kartik Gupta,kartik.gupta@example.com,P180,Camera Bag,1,27.99,27.99,27.99,2.24,30.23,Debit Card,Sophia Patel,D010,Accessories,Store1004
+S10073,2025-09-16,C0073,Mehul Jain,mehul.jain@example.com,P181,Lens Cleaning Kit,2,5.00,10.00,10.00,0.80,10.80,Credit Card,Noah Singh,D010,Accessories,Store1001
+S10074,2025-09-16,C0074,Rhea Kapoor,rhea.kapoor@example.com,P182,Desk Microphone,1,54.00,54.00,54.00,4.32,58.32,UPI,Rahul Iyer,D007,Electronics,Store1002
+S10075,2025-09-16,C0075,Vihaan Arora,vihaan.arora@example.com,P183,Webcam 4K,1,99.00,99.00,99.00,7.92,106.92,Cash,Emily Johnson,D007,Electronics,Store1003
+S10076,2025-09-16,C0076,Dia Khanna,dia.khanna@example.com,P184,HDMI Switch 3-port,1,18.99,18.99,18.99,1.52,20.51,Debit Card,Sophia Patel,D007,Electronics,Store1004
+S10077,2025-09-16,C0077,Anirudh Rao,anirudh.rao@example.com,P185,Bluetooth Adapter,1,12.99,12.99,12.99,1.04,14.03,Credit Card,Noah Singh,D007,Electronics,Store1001
+S10078,2025-09-17,C0078,Palak Shah,palak.shah@example.com,P186,Ergo Wrist Rest,1,11.49,11.49,11.49,0.92,12.41,UPI,Rahul Iyer,D010,Accessories,Store1002
+S10079,2025-09-17,C0079,Rudra Sen,rudra.sen@example.com,P187,Desk Drawer,1,23.99,23.99,23.99,1.92,25.91,Cash,Emily Johnson,D010,Accessories,Store1003
+S10080,2025-09-17,C0080,Simran Gill,simran.gill@example.com,P188,Whiteboard 3x2,1,39.00,39.00,39.00,3.12,42.12,Debit Card,Sophia Patel,D012,Office,Store1004
+S10081,2025-09-17,C0081,Tanvi Bhat,tanvi.bhat@example.com,P189,Marker Eraser,2,2.25,4.50,4.50,0.36,4.86,Credit Card,Noah Singh,D012,Office,Store1001
+S10082,2025-09-17,C0082,Aryan Sethi,aryan.sethi@example.com,P190,Desk Divider,1,24.99,24.99,24.99,2.00,26.99,UPI,Rahul Iyer,D012,Office,Store1002
+S10083,2025-09-18,C0083,Reeva Jain,reeva.jain@example.com,P191,Office Lamp,1,33.99,33.99,33.99,2.72,36.71,Cash,Emily Johnson,D012,Office,Store1003
+S10084,2025-09-18,C0084,Aarush Nanda,aarush.nanda@example.com,P192,Paper Clips 200,2,1.50,3.00,3.00,0.24,3.24,Debit Card,Sophia Patel,D012,Office,Store1004
+S10085,2025-09-18,C0085,Sanjana Arya,sanjana.arya@example.com,P193,Binder 2-inch,1,5.99,5.99,5.99,0.48,6.47,Credit Card,Noah Singh,D012,Office,Store1001
+S10086,2025-09-18,C0086,Aadi Mishra,aadi.mishra@example.com,P194,File Folders 10,1,6.49,6.49,6.49,0.52,7.01,UPI,Rahul Iyer,D012,Office,Store1002
+S10087,2025-09-18,C0087,Sara Sheikh,sara.sheikh@example.com,P195,Desk Calendar,1,8.99,8.99,8.99,0.72,9.71,Cash,Emily Johnson,D012,Office,Store1003
+S10088,2025-09-19,C0088,Zain Khan,zain.khan@example.com,P196,Notebook Spiral,3,2.25,6.75,6.75,0.54,7.29,Debit Card,Sophia Patel,D012,Office,Store1004
+S10089,2025-09-19,C0089,Aashna Kapoor,aashna.kapoor@example.com,P197,USB-C to HDMI,1,16.99,16.99,16.99,1.36,18.35,Credit Card,Noah Singh,D007,Electronics,Store1001
+S10090,2025-09-19,C0090,Vihaan Suri,vihaan.suri@example.com,P198,Mini Projector,1,119.00,119.00,119.00,9.52,128.52,UPI,Rahul Iyer,D007,Electronics,Store1002
+S10091,2025-09-19,C0091,Avantika Paul,avantika.paul@example.com,P199,Smart Plug,2,12.50,25.00,25.00,2.00,27.00,Cash,Emily Johnson,D007,Electronics,Store1003
+S10092,2025-09-19,C0092,Dev Khandelwal,dev.khandelwal@example.com,P200,LED Desk Strip,1,14.99,14.99,14.99,1.20,16.19,Debit Card,Sophia Patel,D010,Accessories,Store1004
+S10093,2025-09-20,C0093,Prisha Jain,prisha.jain@example.com,P201,USB-C Card Reader,1,11.99,11.99,11.99,0.96,12.95,Credit Card,Noah Singh,D007,Electronics,Store1001
+S10094,2025-09-20,C0094,Harshit Garg,harshit.garg@example.com,P202,Keyboard,1,49.99,49.99,49.99,4.00,53.99,UPI,Rahul Iyer,D007,Electronics,Store1002
+S10095,2025-09-20,C0095,Anaya Raina,anaya.raina@example.com,P203,Mouse Silent,1,16.99,16.99,16.99,1.36,18.35,Cash,Emily Johnson,D007,Electronics,Store1003
+S10096,2025-09-20,C0096,Arnav Bhatt,arnav.bhatt@example.com,P204,Keyboard Mechanical,1,79.00,79.00,79.00,6.32,85.32,Debit Card,Sophia Patel,D007,Electronics,Store1004
+S10097,2025-09-20,C0097,Kiara Kaul,kiara.kaul@example.com,P205,Mouse Pad XL,1,12.00,12.00,12.00,0.96,12.96,Credit Card,Noah Singh,D010,Accessories,Store1001
+S10098,2025-09-21,C0098,Arush Mehta,arush.mehta@example.com,P206,Laptop Cooling Pad,1,24.50,24.50,24.50,1.96,26.46,UPI,Rahul Iyer,D010,Accessories,Store1002
+S10099,2025-09-21,C0099,Ridhi Bhatia,ridhi.bhatia@example.com,P207,USB-C PD Charger,1,29.99,29.99,29.99,2.40,32.39,Cash,Emily Johnson,D007,Electronics,Store1003
+S10100,2025-09-21,C0100,Harveer Singh,harveer.singh@example.com,P208,Phone Tripod,1,17.50,17.50,17.50,1.40,18.90,Debit Card,Sophia Patel,D010,Accessories,Store1004
